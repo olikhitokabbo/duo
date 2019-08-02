@@ -1,0 +1,47 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://duolingogermantips.monirulalom.com"
+title: Duolingo জার্মান ভাষার সকল টিপস ও নোটস
+description: "Duolingo জার্মান ভাষার সকল টিপস ও নোটস" # used by search engines
+author: "Md. Monirul Alom"
+
+compress_html:
+  comments: ["<!--", "-->"]
+  endings: all
+
+
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Duolingo জার্মান ভাষার সকল টিপস ও নোটস
+  avatar: assets/img/monirulalomlogo.jpg
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
+
+  footer_text: >
+    আমার সাথে যুক্ত হোন
+
+
+  email_address: monirulalom@gmail.com
+  facebook: olikhitokabbo
+  github: "monirulalom"
+  instagram: "olikhitokabbo"
+
+
+
+
+
+
+facebook:
+  app_id: 983882838472991
+  admins: 100000108825015
+
+# BUILD SETTINGS
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-seo-tag]
+#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*", "assets/gulpfile.js" ,"assets/package.json","assets/package-lock.json","CNAME"]
