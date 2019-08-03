@@ -37,6 +37,8 @@ facebook:
   app_id: 983882838472991
   admins: 100000108825015
 
+# set timezone
+timezone: Asia/Dhaka
 # BUILD SETTINGS
 markdown: kramdown
 sass:
