@@ -2,14 +2,12 @@
 layout: default
 ---
 
-# Duolingo German Tips and Notes
+# Duolingo তে জার্মান শেখার সব টিপস ও নোটস
 
-### Welcome to German :)
+### জার্মান ভাষা শিক্ষায় স্বাগতম :)
 
-​             Welcome to the German course! We will provide you with tips and notes throughout the course. However, be             aware that these are optional. Only read them when you feel stuck, or when you are interested in the             details. You can use the course without them.         
+এখানে Duolingo তে জার্মান শেখার সব টিপস ও নোটস বাংলায় পাবেন । **সবথেকে ভালো হচ্ছে সরাসরি Duolingo অ্যাপে অনুশীলন করা** , এতে যা শিখবেন তা ভালোভাবে মনে থাকবে । কোথাও আটকে গেলে তখনই এই নোটের সাহায্য নেবেন ।         
 
-​             Often, it's best to just **dive into the practice**. See how it goes! You can always revisit the             Notes section later on.         
+### Noun এর প্রথম অক্ষর বড় হাতের - Capitalizing nouns
 
-### Capitalizing nouns
-
-​             In German, **all nouns are capitalized**. For example, "my name" is *mein **N**ame*,             and "the apple" is *der **A**pfel*. This helps you identify which words are the nouns in             a sentence.         
+In German, **all nouns are capitalized**. For example, "my name" is *mein **N**ame*,             and "the apple" is *der **A**pfel*. This helps you identify which words are the nouns in             a sentence.         
