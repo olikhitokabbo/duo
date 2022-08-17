@@ -1,96 +1,30 @@
-
-<br>
-
-![monirulalom](https://user-images.githubusercontent.com/44058340/137975961-522443c5-12a1-4b08-9193-ef5261d5879e.jpg)
-
 ## Recent Projects
 
-**Klenup**
+Here is the list of recent projects I have worked on. I built the **custom theme** for site from Figma/Sketch Prototypes, maintained and developed **custom functionalities** the site on regular basis. Optimized for seo and pagespeed. Managed the site both on VPS and cPanel based servers.
 
-Website: **https://kleanup.co/**
+https://montereyhillsdental.com/
 
-- This is a project for building an API for IOS App and Web
-- I built web interface, plan and design database for API
+http://creativecarpentry.com/
 
-**Disinfection Protection Pro**s
+https://cosmocreativestudios.com/
 
-Website: http://disinfectionprotectionpros.com/
+http://dynamicrealtyinc.com/
 
-- Built the site with WordPress.
-- Regularly update design/ functionality of the site.
-- Custom coded theme without page builders for good performance.
+https://rebuyhomes.com/
 
-**Cosmo Creative**
+https://actiondrugrehab.com/
 
-Website: https://cosmocreativestudios.com/
+https://workingclassav.com/
 
-- I regularly provide design and functionality update and troubleshooting service for the website.
+https://vehicleen.com/
 
-**Irregular Exposure**
+http://www.zimmermanfamilydentistry.com/
 
-Website: https://www.irregularexposure.com/
+https://vipfitnesslasvegas.com/
 
-- This is a single product Ecommerce site.
-- I created the the site using WordPress and Woo-Commerce (later it was moved to Shopify)
-- Provided support for a long period.
+https://www.irregularexposure.com/
 
-Creative Carpentry
-
-old site: http://creativecarpentry.com/ 
-Dev site: http://creativecarpentry.cosmosample.com/ (I am working on it)
-
-- Rebuilding the site from scratch from WordPress from XD design provided to me.
-- Code is optimized for performance and no page builder used which slows down the performance.
-- This is a work in progress which will be moved  to the main domain.
-
-**Blessed Recovery Center**
-
-Dev site: http://blessed.cosmosample.com/
-
-- Rebuilt the site with WordPress to give them full control of the site.
-
-- All contents are editable from WordPress admin area.
-
-**Zimmerman Family Dentistry**
-
-Website: http://www.zimmermanfamilydentistry.com/
-
-- This is  very simple site using PHP
-- A PSD design was provided to me and I coded it.
-
-**Ninja Plumber**
-
-Website: https://www.ninjaplumber.com/
-
-- Create the HTML page from PSD design for the website.
-
-Raffaele Ruberto
-
-Website: https://raffaeleruberto.it/
-
-- Basic WordPress website, I provided customization and troubleshooting service.
-
-**First Edison:**
-
-Website: http://firstedison.com/
-
-- They wanted to make this Website Mobile friendly and I made it responsive and mobile friendly.
-
-**VIP Fitness**
-
-Website: https://vipfitnesslasvegas.com/
-
-- This website was having some issues on mobile devices and I fixed it for them.
-
-
-
-**Covid19 Tracker (PHP Laravel Project)**
-
-Demo url: http://projectcovid19.herokuapp.com/
-
-Details: https://github.com/monirulalom/covid19/tree/develop
-
-
+## Plugin development
 
 **WooCommerce**
 
@@ -98,20 +32,21 @@ Details: https://github.com/monirulalom/covid19/tree/develop
 - I added some feature to this plugin to be usable for Bangladesh region.
 - Selecting right area / region for shipping from Bangladesh became possible after my contribution.
 
+Link: https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Amonirulalom+is%3Aclosed+
+
+**Simple Poll Plugin**
+ - Simple Poll is a plugin for creating Yes/no polls in WordPress.
+ - This plugin has shortcode and Gutenberg block support.
+ - This plugin is still under development will publish to wordpress.org soon.
+
+Link: https://github.com/monirulalom/simple-poll
+
 **Quick Bangla installer for WordPress**
 
 - This plugin was made for Bangladesh community to solve some issues with Bangla Language though this plugin is no longer maintained.
 
+Link: https://wordpress.org/plugins/quick-bangla-installer/
+
 **Brackets extension for WooCommerce:**
 
 -  This extension was built using Javascript to help WooCommece developers providing autocomplete support in the Brackets editor.
-
-  
-
-  There are some projects on my GitHub and Bitbucket for creating **REST API using PHP, Laravel  and some basic crud application.**
-
-  Here is my GitHub and BitBucket links you can check it out:
-
-  **Github:** https://github.com/monirulalom
-
-  **BitBucket**: https://bitbucket.org/monirulalom/
